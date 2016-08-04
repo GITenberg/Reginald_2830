@@ -1,0 +1,35 @@
+_repo: Reginald_2830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saki
+    aliases:
+    - Munro, H. H. (Hector Hugh)
+    - Munro, Hector Hugh
+    birthdate: 1870
+    deathdate: 1916
+    gutenberg_agent_id: '152'
+    url: http://www.gutenberg.org/2009/agents/152
+    wikipedia: http://en.wikipedia.org/wiki/Saki
+description: ''
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2830'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Humorous stories, English'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, English'
+- GITenberg
+tableOfContents: Reginald on Christmas presents -- Reginald on the Academy -- Reginald
+  at the theatre -- Reginald's peace poem -- Reginald's choir treat -- Reginald on
+  worries -- Reginald on house-parties -- Reginald at the Carlton -- Reginald on besetting
+  sins -- Reginald's drama -- Reginald on tariffs -- Reginald's Christmas revel --
+  Reginald's Rubáiyát -- The innocence of Reginald.
+title: Reginald
+url: http://www.gutenberg.org/ebooks/2830
